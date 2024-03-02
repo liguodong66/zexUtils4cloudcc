@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.zhierxi</groupId>
     <artifactId>zexUtil4cloudcc</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>zexUtil4cloudcc</name>
     <description>Utils for Cloudcc dev. from zhierxi,company-inner-tools only </description>
     <properties>
