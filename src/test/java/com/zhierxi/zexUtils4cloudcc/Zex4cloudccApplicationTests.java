@@ -1,4 +1,4 @@
-package com.zhierxi.zex4cloudcc;
+package com.zhierxi.zexUtils4cloudcc;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

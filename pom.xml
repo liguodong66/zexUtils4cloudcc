@@ -78,7 +78,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <version>${spring-boot.version}</version>
                 <configuration>
-                    <mainClass>com.zhierxi.zex4cloudcc.Zex4cloudccApplication</mainClass>
+                    <mainClass>com.zhierxi.zexUtils4cloudcc.ZexUtils4cloudccApplication</mainClass>
                     <skip>true</skip>
                 </configuration>
                 <executions>
